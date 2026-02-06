@@ -1,4 +1,5 @@
 🔍 Findora – Lost and Found Platform
+
 Findora is a peer-to-peer lost-and-found platform built on a centralized server that leverages computer vision to convert images of found items into structured text transcripts, which are securely stored in a database. Individuals who have lost an item describe it in textual form, and humanized matching filters intelligently compare lost and found records to identify potential matches. To ensure security and reliability during item recovery, OTP-based authorization is implemented for user verification.
 
 🌟 Features
