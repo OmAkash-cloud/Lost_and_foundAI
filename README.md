@@ -20,6 +20,7 @@ Item data is stored securely in Firestore, with images saved in Firebase Storage
 Google Gemini AI assists in intelligently matching lost and found items.
 QR codes can be used to quickly identify and verify items.
 Once a match is confirmed, the item is safely returned to its owner.
+
 🛠 Tech Stack
 Frontend: React + Vite, Tailwind CSS
 Backend: Express.js
@@ -28,6 +29,7 @@ Database: Firebase Firestore
 Storage: Firebase Storage
 AI Integration: Google Gemini AI
 Utilities: QR Code generation and scanning
+
 🚀 Getting Started
 Prerequisites
 Node.js
